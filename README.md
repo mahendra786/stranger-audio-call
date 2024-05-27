@@ -1,6 +1,6 @@
 Stranger Audio call one to one using Nodejs,WebRTC and Sockit IO
-Price - $25
-For all script email me info@webpointtechnologies.in
+<br>Price - $25
+<br>For Complete Code email me - info@webpointtechnologies.in
 
 <img src="https://raw.githubusercontent.com/mahendra786/stranger-audio-call/master/screen/Screenshot%20from%202024-05-27%2015-13-43.png"/>
 
